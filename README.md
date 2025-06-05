@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working as Embedded developer
-- 🌱 I’m studying the profession of a data engineer
+- 🌱 I am constantly exploring new technologies and I want to implement them in my work.
 
 ***
 
@@ -11,6 +11,9 @@
 
 ### Embedded developer
 - 💻 <a href="https://github.com/Djammer97/Test/">Прошивка ATMega8</a>
+
+### Python developer (FastAPI)
+- <a href="https://github.com/Djammer97/currency_converter">API-приложение конвертер валют</a>
 
 ***
 ## My studing projects:
